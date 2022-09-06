@@ -2,7 +2,7 @@ from PIL import Image
 from typing import Container
 import streamlit as st 
 import phonenumbers
-import requests
+
 from streamlit_lottie import st_lottie
 
 
